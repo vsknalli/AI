@@ -32,6 +32,19 @@ so if we want to create the environmenbt tacking long time in that situvation we
 ansible-navigator includes all the old commands like ansible-playbook ansible-config galaxu ansible-doc etc..etc....If you use the old command the playbook will run in own ansible control node only not in EE , if we use ansible-navigator it will create the EE and execute the 
 playbook.
 
+We need to install navigator which will create the EE for us That is called executin environment on the flay
+
+## yum install ansible-navigator or dnf install ansible-navigator
+
+Suppose if the software is not available in our repository we need to add the repository 
+
+ansible is a python software we can use
+# yum install pip3 -pip
+# pip3 install ansible-navigator 
+
+if you want to any python liberary we can use pip command to install the liberary 
+
+
 
 
 
