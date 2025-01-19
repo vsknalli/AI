@@ -1,0 +1,10 @@
+GIT and GITHUB Notes:
+======================
+Introduction to Git 
+Importance of Version Control 
+Understanding delta part in Git 
+Tracking indec in Git 
+Working in Git 
+Working are in GIt 
+Understanding commit area in Git 
+Staging area in Git 
