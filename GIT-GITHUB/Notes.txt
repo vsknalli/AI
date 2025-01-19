@@ -8,3 +8,41 @@ Working in Git
 Working are in GIt 
 Understanding commit area in Git 
 Staging area in Git 
+
+Introduction:
+=============
+	While we are keeping our files in our localdisk there might be some possibilities the hard 
+disk may correpted, we couldn't access our files in that senario to keep on having the the back on our files Git and GitHub plays a very big role.
+	The back up would be not one time , we will keep on doing, since we are versioning the backup.
+Since its normal text backup we would like to perform full-backup instead of incremendation with versioning concept.which helps to rollback very easily if anything goes wrong.
+
+Importance of VCS
+==================
+
+The coure concept of git --> 
+
+1) If you have certain data you have to keep the data in file (example file txt or programe)
+2) Now you did some feature modification in your programe but its not working in this situvation we can 
+roll-back to its previouse good version stage .
+
+A	While it tacking back it will read file 1 take whatevet the difference it will take as a version-02 , i mean it will take incrementally, old data will be linked . This back is technically called "snapshots" 
+	suppose the secound day we have deleted one line out of 5 line, in this situvation, git just update the information, in ths same day snapshot , just it marks the information by marker . (like 4th number is deleted) which is done by Marker. keepint the data area is called working area.
+w	The next day what ever the change we are doing will be saved in special area which is called snapshot area, in Git it is called "Commit area".
+A
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
